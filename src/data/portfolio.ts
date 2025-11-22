@@ -5,7 +5,7 @@ export const portfolioData = {
     description: "Dedicated Software Engineer with 3 years of professional experience in enterprise application development, microservices architecture, and cloud-native practices.",
     email: "abhishekgoklani0@gmail.com",
     phone: "8718812000",
-    location: "India",
+    location: "Bangalore, India",
     socials: {
       github: "https://github.com/abhigoklani",
       linkedin: "https://linkedin.com/in/abhishek-goklani-a4060816/",
