@@ -169,7 +169,7 @@ export const portfolioData = {
       certificationNumber: "AY6641-1256D2",
       verificationUrl: "https://learn.microsoft.com/en-us/credentials/certifications/",
       description: "Professional certification demonstrating expertise in GitHub Copilot and AI-assisted development",
-      imagePath: "/images/certifications/microsoft-github-copilot.png",
+      imagePath: "/my-portfolio/images/certifications/microsoft-github-copilot.png",
     },
   ],
 };
