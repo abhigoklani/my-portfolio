@@ -7,8 +7,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // Uncomment below if deploying to a subdirectory like: https://username.github.io/portfolio/
-  // basePath: "/portfolio",
+  // Set basePath for GitHub Pages subdirectory deployment
+  basePath: "/my-portfolio",
 };
 
 export default nextConfig;
